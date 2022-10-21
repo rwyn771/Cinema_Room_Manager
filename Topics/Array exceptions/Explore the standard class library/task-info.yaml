@@ -1,0 +1,33 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: NegativeArraySizeException
+- text: NegativeArrayIndexException
+- text: ArrayEmptyException
+- text: NullArrayReferenceException
+- text: ZeroArraySizeException
+- text: ArrayIndexOutOfBoundsException
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/1939#comment
+status: Failed
+feedback:
+  message: Answer choices will be shuffled next time.
+  time: Thu, 20 Oct 2022 14:05:06 UTC
+record: -1
+selected_options:
+- 0
+- 1
+- 3
+- 5
+local_check: false

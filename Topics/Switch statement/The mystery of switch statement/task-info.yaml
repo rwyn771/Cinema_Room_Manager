@@ -1,0 +1,22 @@
+type: number
+files:
+- name: answer.txt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 3
+    placeholder_text: type your solution here
+    initial_state:
+      length: 23
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Failed
+  text: type your solution here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2740#comment
+status: Failed
+feedback:
+  message: Wrong solution
+  time: Wed, 19 Oct 2022 07:54:33 UTC
+record: -1
